@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+   <h1>Yara Chidiac</h1>
+    <img src="./Screenshot 2023-05-03 234743.png" height="200" alt="yara's photo">
+   <h2>Summary</h2>
+     <p>I am a fulltime dentist who is good at diagnosing and solving problems. I have always been fond of coding so I decided to pursue my dream and become a professional web developer.  </p>
+<hr/>
+   <h2>Education</h2>
+     <ul>
+      <li>Bachelor of Dentistry- Lebanese University(2012-2017)</li>
+     </ul>
+<hr/>
+   <h2>Work Experience</h2>
+      <ul>
+         <li><h3>Lead Dentist - Lebanese Naval Base</h3> 
+             <p>April 2019-April 2023</p> 
+             <ul>
+                <li>	Provide routine and complex dental procedures to members of the Lebanese Army </li>
+                <li>    Apply emergency treatments on teeth with symptomatic acute pulpitis </li>
+                <li>	Collaborate with oral surgeons, periodontists, dental hygienists, and other members of the team for enhanced patient care</li>
+             </ul>  
+        </li>
+
+        <li><h3>Dental Surgeon - Personal Private Clinic</h3></li>
+             <p>Aug 2019- Present</p>
+             <ul>
+                <li>	Provide patients with full mouth rehabilitations</li>
+                <li>    Perform tooth extractions and replace missing teeth with dental implants, dental bridges, fixed or removable dentures</li>
+                <li>	Offer patients innovative esthetic treatments for better smiles (veneers, zirconium crowns, in-office teeth whitening)</li>
+            
+             </ul>
+
+      </ul>
+    <hr/>
+
+    <h2>Languages</h2>
+      <ul>
+         <li>Arabic : Fluent (native)</li>
+         <li>English: Fluent</li>
+         <li>French: Full working proficiency</li>
+      </ul>
+      <hr/>
+    <h2>Certifictions and licenses</h2>
+        <ul>
+
+            <li>Dubai Healthcare Professional Registration Certificate (Jan 2023)</li>
+            <li>Health license - Lebanese Ministry of public health (Oct 2017)   </li>
+        </ul>
+        <hr/>
+    <h2>Other</h2>
+        <ul>
+           <li><a href="./public/contact.html">Contact Me</a></li>
+           <li><a href="./4.3 HTML Porfolio Project/">My first Website</a></li>
+        </ul>
+ <footer>
+   <p>© Yara Chidiac 2023</p>
+ </footer>
+
+
+    
+</body>
+</html>
